@@ -1,0 +1,29 @@
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cbp
+*~
+
+# Qt
+*.user
+*.pro.user
+*.pro.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# C++
+*.o
+*.so
+*.a
+*.dll
+*.exe
+*.out
+
+# IDE specific
+.idea/
+.vscode/
